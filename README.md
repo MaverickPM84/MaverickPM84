@@ -27,16 +27,23 @@ I help teams build AI systems that are **reliable, scalable, cost-efficient, and
 ---
 
 ## 📚 Featured Projects
-### 🔹 **AI PM Technical Trade-Offs Tracker**
-A comprehensive guide to mastering ML/GenAI trade-offs  
-→ *Learn to think like a $400K+ AI PM*
 
-### 🔹 **RAG Platform Product Specification**
-End-to-end PRD for enterprise-grade retrieval-augmented generation
+### 🔹 **Vibe Coding Projects**
+
+Portfolio of AI prototypes (Claude, Google AI Studio, Cursor, Lovable...)
+
+→ Explore them here - https://github.com/PMcoder84/vibe-coding-projects 
+
+### 🔹 **Prompt Playbook**
+
+My personal collection of high-impact prompts that help me think faster, write sharper, and ship better as a Product Manager.
+
+→ Explore them here - https://github.com/PMcoder84/prompt-playbook 
 
 ---
 
 ## 🛠 Tech Areas I Work Closely With
+
 - LLMs, RAG, Agents, Vector Stores, Embeddings  
 - BigQuery, GCS, Vertex AI, BigTable  
 - KFP, Feature Stores, Kafka, Pub/Sub  
