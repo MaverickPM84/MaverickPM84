@@ -1,32 +1,14 @@
 # 👋 Hi, I'm Preetam Kale
 
-### 🚀 Senior Product Manager | GenAI, RAG, MLOps | Building AI Platforms & Intelligent Systems
+### 🚀 Senior Product Manager | GenAI, RAG, Agents, Agentic RAG, MLOps | Building AI Platforms & Intelligent Systems
 
-I’m a Product Leader working at the intersection of **GenAI, Retrieval-Augmented Generation, LLMOps, Feature Stores, and AI Infrastructure**.  
+I’m a Product Leader working at the intersection of **GenAI, Retrieval-Augmented Generation, Agents, Agentic RAG, Feature Stores, and AI Infrastructure**.  
 I help teams build AI systems that are **reliable, scalable, cost-efficient, and aligned with real business value**.
 
 ---
 
-## 🔥 What I'm Currently Working On
-- Building a **GenAI RAG Platform** with Model Context Protocol (MCP)
-- Designing **evaluation frameworks** for LLM-based applications
-- Leading MLOps initiatives for **Feature Stores, Data Pipelines & KFP**
-- Mentoring PMs on **AI Product Strategy & Execution**
-- Becoming a world-class **AI Product Leader** (90-day deep focus)
 
----
-
-## 🧠 My AI PM Focus Areas
-- AI Product Sense (User × Model × Economics)
-- RAG Architecture & Vector Databases
-- Multi-Agent Systems & Context Engineering
-- AI Evaluations, Observability & Trust
-- ML + GenAI System Design & Trade-offs
-- PM Frameworks for Non-Deterministic Systems
-
----
-
-## 📚 Featured Projects
+## 📚 Current Projects
 
 ### 🔹 **Vibe Coding Projects**
 
