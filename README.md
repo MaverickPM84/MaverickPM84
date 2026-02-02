@@ -10,7 +10,7 @@ I help teams build AI systems that are **reliable, scalable, cost-efficient, and
 
 ## 📚 Current Projects
 
-### 🔹 **Vibe Coding Projects**
+### 🔹 **[Vibe Coding Projects](https://github.com/PMcoder84/vibe-coding-projects)**
 
 Portfolio of AI prototypes (Claude, Google AI Studio, Cursor, Lovable...)
 
