@@ -1,27 +1,15 @@
-# 👋 Hi, I'm Preetam Kale
+# Hi, I'm Preetam Kale
 
-### 🚀 Senior Product Manager | GenAI, RAG, Agents, Agentic RAG, MLOps | Building AI Platforms & Intelligent Systems
+### Senior Product Manager | GenAI, RAG, Agents, Agentic RAG, MLOps | Building AI Platforms & Intelligent Systems
 
 I’m a Product Leader working at the intersection of **GenAI, Retrieval-Augmented Generation, Agents, Agentic RAG, Feature Stores, and AI Infrastructure**.  
 I help teams build AI systems that are **reliable, scalable, cost-efficient, and aligned with real business value**.
 
----
+## Current Projects
 
+### **[Vibe Coding Projects](https://github.com/PMcoder84/vibe-coding-projects)** - Portfolio of AI prototypes (Claude, Google AI Studio, Cursor, Lovable...)
 
-## 📚 Current Projects
-
-### 🔹 **[Vibe Coding Projects](https://github.com/PMcoder84/vibe-coding-projects)** - Portfolio of AI prototypes (Claude, Google AI Studio, Cursor, Lovable...)
-
-### 🔹 **[Prompt Playbook](https://github.com/PMcoder84/prompt-playbook)** - My personal collection of high-impact prompts that help me think faster, write sharper, and ship better as a Product Manager.
-
----
-
-## 🛠 Tech Areas I Work Closely With
-
-- LLMs, RAG, Agents, Vector Stores, Embeddings  
-- BigQuery, GCS, Vertex AI, BigTable  
-- KFP, Feature Stores, Kafka, Pub/Sub  
-- Model evaluations, guardrails, monitoring  
+### **[Prompt Playbook](https://github.com/PMcoder84/prompt-playbook)** - My personal collection of high-impact prompts that help me think faster, write sharper, and ship better as a Product Manager.
 
 ---
 
