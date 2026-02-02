@@ -10,17 +10,9 @@ I help teams build AI systems that are **reliable, scalable, cost-efficient, and
 
 ## 📚 Current Projects
 
-### 🔹 **[Vibe Coding Projects](https://github.com/PMcoder84/vibe-coding-projects)**
+### 🔹 **[Vibe Coding Projects](https://github.com/PMcoder84/vibe-coding-projects)** - Portfolio of AI prototypes (Claude, Google AI Studio, Cursor, Lovable...)
 
-Portfolio of AI prototypes (Claude, Google AI Studio, Cursor, Lovable...)
-
-→ Explore them here - https://github.com/PMcoder84/vibe-coding-projects 
-
-### 🔹 **Prompt Playbook**
-
-My personal collection of high-impact prompts that help me think faster, write sharper, and ship better as a Product Manager.
-
-→ Explore them here - https://github.com/PMcoder84/prompt-playbook 
+### 🔹 **[Prompt Playbook](https://github.com/PMcoder84/prompt-playbook)** - My personal collection of high-impact prompts that help me think faster, write sharper, and ship better as a Product Manager.
 
 ---
 
@@ -33,21 +25,11 @@ My personal collection of high-impact prompts that help me think faster, write s
 
 ---
 
-## 🎯 What Drives Me
-I believe the best AI Products come from PMs who:
-- Understand user reality deeply  
-- Respect model limitations  
-- Master uncertainty  
-- Combine product sense + ML intuition  
-- Execute ruthlessly  
-
----
-
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/product-manager-preetamkale/
 - 📧 Email: preetamkale@gmail.com
 
 ---
 
-### ⭐️ *If you're building in AI, I'd love to connect & collaborate.*
+### *If you're building in AI, I'd love to connect & collaborate.*
 
