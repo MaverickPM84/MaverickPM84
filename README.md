@@ -2,7 +2,7 @@
 
 ### Senior Product Manager | GenAI, RAG, Agents, Agentic RAG, MLOps | Building AI Platforms & Intelligent Systems
 
-I’m a Product Leader working at the intersection of **GenAI, Retrieval-Augmented Generation, Agents, Agentic RAG, Feature Stores, and AI Infrastructure**.  
+I’m a Product Leader working at the intersection of **Retrieval-Augmented Generation, Agents, Agentic RAG, Feature Stores, and AI Infrastructure**.  
 I help teams build AI systems that are **reliable, scalable, cost-efficient, and aligned with real business value**.
 
 ## Current Projects
@@ -13,11 +13,8 @@ I help teams build AI systems that are **reliable, scalable, cost-efficient, and
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/product-manager-preetamkale/
-- 📧 Email: preetamkale@gmail.com
+## Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/product-manager-preetamkale/)
+- 📧 [Email](preetamkale@gmail.com)
 
----
-
-### *If you're building in AI, I'd love to connect & collaborate.*
 
