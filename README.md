@@ -7,7 +7,7 @@ I help teams build AI systems that are **reliable, scalable, cost-efficient, and
 
 ## Current Projects
 
-### [Swar](https://github.com/MaverickPM84/Swar)) - Google Cloud Speech-to-Text - Voice-driven YouTube player for Indian languages. Sing or speak a song name, and Swar will find and play it with tempo-adaptive playback.
+### [Swar](https://github.com/MaverickPM84/Swar) - Google Cloud Speech-to-Text - Voice-driven YouTube player for Indian languages. Sing or speak a song name, and Swar will find and play it with tempo-adaptive playback.
 
 ### [Vibe Coding Projects](https://github.com/PMcoder84/vibe-coding-projects) - Portfolio of AI prototypes (Claude, Google AI Studio, Cursor, Lovable...)
 
