@@ -1,22 +1,34 @@
-# Hi, I'm Preetam Kale
+# Hi, I'm Preetam Kale 👋
 
-### Senior Product Manager | GenAI, RAG, Agents, Agentic RAG, MLOps | Building AI Platforms & Intelligent Systems
+**Senior Product Manager** building AI products — GenAI, RAG, Agents, and Agentic RAG.
 
-I’m a Product Leader working at the intersection of **Retrieval-Augmented Generation, Agents, Agentic RAG, Feature Stores, and AI Infrastructure**.  
-I help teams build AI systems that are **reliable, scalable, cost-efficient, and aligned with real business value**.
-
-## Current Projects
-
-### [Swar](https://github.com/MaverickPM84/Swar) - Google Cloud Speech-to-Text - Voice-driven YouTube player for Indian languages. Sing or speak a song name, and Swar will find and play it with tempo-adaptive playback.
-
-### [Vibe Coding Projects](https://github.com/PMcoder84/vibe-coding-projects) - Portfolio of AI prototypes (Claude, Google AI Studio, Cursor, Lovable...)
-
-### [Prompt Playbook](https://github.com/PMcoder84/prompt-playbook) - My personal collection of high-impact prompts that help me think faster, write sharper, and ship better as a Product Manager.
+I build in public and share everything I make, so other product builders can learn, fork, and ship faster. Below are the projects I'm actively working on and the repos where I learn out loud.
 
 ---
 
-## Connect With Me
+## 🛠️ Building
+
+- **[naive-rag-api](https://github.com/MaverickPM84/naive-rag-api)** — A minimal RAG backend built with FastAPI. A clean starting point for understanding retrieval end-to-end.
+- **[InventoryAI Planner (RAG)](https://github.com/MaverickPM84/InventoryAI-Planner-powered-by-RAG)** — An inventory planning assistant powered by Retrieval-Augmented Generation.
+- **[Inventory Planner Agent](https://github.com/MaverickPM84/Inventory-Planner-Agent)** — The agentic take on inventory planning — autonomous, tool-using workflows.
+- **[AI-Agents](https://github.com/MaverickPM84/AI-Agents)** · **[Agents](https://github.com/MaverickPM84/Agents)** — Experiments building single- and multi-agent systems.
+- **[vibe-coding-projects](https://github.com/MaverickPM84/vibe-coding-projects)** — A portfolio of AI prototypes built with Claude, Google AI Studio, Cursor, Lovable, and more.
+- **[prompt-playbook](https://github.com/MaverickPM84/prompt-playbook)** — High-impact prompts I use as a Product Manager and mentor to think faster and ship sharper.
+
+## 📚 Learning in Public
+
+- **[ai-pm-learning-tracker](https://github.com/MaverickPM84/ai-pm-learning-tracker)** — Technical trade-offs and a structured learning plan for AI Product Management.
+- **[python-for-ai](https://github.com/MaverickPM84/python-for-ai)** — Python for AI, a little every day.
+- **[30daysofPython](https://github.com/MaverickPM84/30daysofPython)** — My 30-day Python practice log.
+
+## 📫 Connect With Me
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/product-manager-preetamkale/)
-- 📧 [Email](preetamkale@gmail.com)
+- ✉️ [preetamkale@gmail.com](mailto:preetamkale@gmail.com)
+
+---
+
+*Fork anything that's useful. If it helps you build, it's done its job.*
+
 
 
